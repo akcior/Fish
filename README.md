@@ -1,2 +1,2 @@
 # Fish
-this application is created to simulate behaviour of shoal of fish
+this application is created to simulate behaviour of fish shoal
